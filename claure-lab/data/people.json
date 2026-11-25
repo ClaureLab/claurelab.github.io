@@ -40,5 +40,29 @@
     "role": "",
     "image": "member-screenshot.jpg",
     "group": "Undergraduate Students"
+  },
+  {
+    "name": "Jacob Engel",
+    "role": "",
+    "image": "jacob-engel.jpg",
+    "group": "Undergraduate Students"
+  },
+  {
+    "name": "Josalin Wang",
+    "role": "",
+    "image": "josalin-wang.jpg",
+    "group": "Undergraduate Students"
+  },
+  {
+    "name": "Luke Oliver",
+    "role": "",
+    "image": "luke-oliver.jpg",
+    "group": "Undergraduate Students"
+  },
+  {
+    "name": "Parker Chapman",
+    "role": "",
+    "image": "parker-chapman.jpg",
+    "group": "Undergraduate Students"
   }
 ]
