@@ -1,0 +1,51 @@
+[
+  {
+    "id": "societal-impact",
+    "title": "The Societal Impact of AI Decisions",
+    "subtitle": "Exploring how robot decision-making shapes human behavior",
+    "summary": "We study how decisions made by robots and AI systems shape human behavior, perceptions of fairness, and relationships within teams. Using interactive platforms such as Co-Tetris and Multiplayer Space Invaders, we investigate how the allocation of resources and assistance influences collaboration. Our work examines how fairness judgments evolve during an interaction, how expectations and perceived agency affect those judgments, and how machine decisions can influence the way people perceive one another.",
+    "publicationIds": [
+      "dynamics-fairness-2026",
+      "time-varying-agency-2026",
+      "agency-intention-2025",
+      "space-invaders-2024",
+      "machine-allocation-2023"
+    ],
+    "links": [
+      {
+        "label": "Co-Tetris platform",
+        "url": "https://github.com/hbclaure/Co_Tetris"
+      }
+    ],
+    "sourceUrl": "https://www.houstonclaure.com/research/"
+  },
+  {
+    "id": "human-aligned-decisions",
+    "title": "Algorithms for Human-Aligned Decision Making",
+    "subtitle": "Designing algorithms that adapt AI behavior to human values",
+    "summary": "We develop computational methods that help robots and AI agents learn what people value and adapt their behavior during collaboration. Our work draws on reinforcement learning, inverse reinforcement learning, deep learning, and large language models. We study how agents can learn from both explicit feedback and human actions, reason about fairness, and provide actionable explanations. We evaluate these methods in interactive settings, including assistive robots, multiplayer games, and language-based collaborators.",
+    "publicationIds": [
+      "learning-preferences-2026",
+      "llm-fairness-2025",
+      "counterfactual-explanations-2025",
+      "fair-bandits-2020"
+    ],
+    "links": [],
+    "sourceUrl": "https://www.houstonclaure.com/research/"
+  },
+  {
+    "id": "safety-critical-robots-ed",
+    "title": "Safety-Critical Robots in Emergency Departments",
+    "subtitle": "Developing trustworthy robotic assistance for emergency care",
+    "summary": "We aim to develop robots that can support people in the fast-changing environment of the emergency department. This research direction asks how robots should learn clinical teams’ preferences, communicate their capabilities and limitations, and share assistance fairly. We are interested in evaluation methods and human oversight that put patient safety and clinical workflows first. By connecting human–robot interaction with emergency medicine, we seek to understand when robotic assistance can be useful and how it should be introduced responsibly.",
+    "publicationIds": [],
+    "links": [
+      {
+        "label": "Claure Lab at UVA Emergency Medicine",
+        "url": "https://research.uvaem.com/labs/claure-lab"
+      }
+    ],
+    "sourceUrl": "https://research.uvaem.com/labs/claure-lab",
+    "status": "Research direction"
+  }
+]

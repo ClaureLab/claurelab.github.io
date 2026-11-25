@@ -1,0 +1,234 @@
+[
+  {
+    "id": "dynamics-fairness-2026",
+    "year": 2026,
+    "title": "The Dynamics of Human Fairness Judgments towards a Robot",
+    "authors": [
+      "Houston Claure",
+      "Austin Narcomey",
+      "Kate Candon",
+      "Inyoung Shin",
+      "Marynel Vázquez"
+    ],
+    "equalContribution": [
+      "Houston Claure",
+      "Austin Narcomey"
+    ],
+    "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+    "url": "https://doi.org/10.1145/3757279.3785642",
+    "type": "Conference paper",
+    "researchAreas": [
+      "societal-impact"
+    ]
+  },
+  {
+    "id": "learning-preferences-2026",
+    "year": 2026,
+    "title": "Learning Human Preferences over a Human-Robot Collaboration Based on Explicit and Implicit Human Feedback",
+    "authors": [
+      "Kate Candon",
+      "Qiping Zhang",
+      "Alexander Lew",
+      "Houston Claure",
+      "Lena Qian",
+      "Alyssa Quarles",
+      "Chayan Sarkar",
+      "Marynel Vázquez"
+    ],
+    "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+    "url": "https://doi.org/10.1145/3757279.3785630",
+    "type": "Conference paper",
+    "researchAreas": [
+      "human-aligned-decisions"
+    ]
+  },
+  {
+    "id": "time-varying-agency-2026",
+    "year": 2026,
+    "title": "Effects of Time-Varying Perceived Agency on Fairness Judgments Towards Robots",
+    "authors": [
+      "Inyoung Shin",
+      "Houston Claure",
+      "Mai Blaustein",
+      "J. Gregory Trafton",
+      "Marynel Vázquez"
+    ],
+    "venue": "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+    "url": "https://doi.org/10.1109/ro-man72286.2026.11714861",
+    "type": "Conference paper",
+    "researchAreas": [
+      "societal-impact"
+    ]
+  },
+  {
+    "id": "llm-fairness-2025",
+    "year": 2025,
+    "title": "Inferring Human Fairness Judgments with Large Language Models in Human-Robot Interaction Scenarios",
+    "authors": [
+      "Houston Claure",
+      "Aly Moosa",
+      "Marynel Vázquez"
+    ],
+    "venue": "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+    "url": "https://doi.org/10.1109/ro-man63969.2025.11217730",
+    "type": "Conference paper",
+    "researchAreas": [
+      "societal-impact",
+      "human-aligned-decisions"
+    ]
+  },
+  {
+    "id": "agency-intention-2025",
+    "year": 2025,
+    "title": "Did the Robot Really Intend to Harm Me? The Effect of Perceived Agency and Intention on Fairness Judgments",
+    "authors": [
+      "Houston Claure",
+      "Inyoung Shin",
+      "J. Gregory Trafton",
+      "Marynel Vázquez"
+    ],
+    "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+    "url": "https://doi.org/10.1109/hri61500.2025.10973900",
+    "type": "Conference paper",
+    "researchAreas": [
+      "societal-impact"
+    ]
+  },
+  {
+    "id": "counterfactual-explanations-2025",
+    "year": 2025,
+    "title": "Robot Delivery of Actionable Counterfactual Neural Network Explanations: Results in Group Perception",
+    "authors": [
+      "Austin Narcomey",
+      "Houston Claure",
+      "Marynel Vázquez"
+    ],
+    "venue": "IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+    "url": "https://doi.org/10.1109/ro-man63969.2025.11217869",
+    "type": "Conference paper",
+    "researchAreas": [
+      "human-aligned-decisions"
+    ]
+  },
+  {
+    "id": "space-invaders-2024",
+    "year": 2024,
+    "title": "Multiplayer Space Invaders: A Platform for Studying Evolving Fairness Perceptions in Human-Robot Interaction",
+    "authors": [
+      "Houston Claure",
+      "Kate Candon",
+      "Olivia Clark",
+      "Marynel Vázquez"
+    ],
+    "venue": "Companion of the ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+    "url": "https://doi.org/10.1145/3610978.3640687",
+    "type": "Conference companion paper",
+    "researchAreas": [
+      "societal-impact"
+    ]
+  },
+  {
+    "id": "designing-fairness-2024",
+    "year": 2024,
+    "title": "Designing for Fairness in Human-Robot Interactions",
+    "authors": [
+      "Houston Claure"
+    ],
+    "venue": "Robotics: Science and Systems (RSS) Pioneers Workshop",
+    "url": "https://arxiv.org/abs/2405.21044",
+    "type": "Workshop paper",
+    "researchAreas": [
+      "societal-impact"
+    ]
+  },
+  {
+    "id": "machine-allocation-2023",
+    "year": 2023,
+    "title": "The Social Consequences of Machine Allocation Behavior: Fairness, Interpersonal Perceptions and Performance",
+    "authors": [
+      "Houston Claure",
+      "Seyun Kim",
+      "René F. Kizilcec",
+      "Malte Jung"
+    ],
+    "venue": "Computers in Human Behavior",
+    "url": "https://doi.org/10.1016/j.chb.2022.107628",
+    "type": "Journal article",
+    "researchAreas": [
+      "societal-impact"
+    ]
+  },
+  {
+    "id": "fairness-transparency-2022",
+    "year": 2022,
+    "title": "Fairness and Transparency in Human-Robot Interaction",
+    "authors": [
+      "Houston Claure",
+      "Mai Lee Chang",
+      "Seyun Kim",
+      "Daniel Omeiza",
+      "Martim Brandão",
+      "Min Kyung Lee",
+      "Malte Jung"
+    ],
+    "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI), Workshop",
+    "url": "https://pages.ischool.utexas.edu/hai-files/files/publications/60/2022-fairness_and_transparency_in_human_robot_interaction.pdf",
+    "type": "Workshop paper",
+    "researchAreas": [
+      "societal-impact"
+    ]
+  },
+  {
+    "id": "fairness-team-collaboration-2021",
+    "year": 2021,
+    "title": "Fairness Considerations for Enhanced Team Collaboration",
+    "authors": [
+      "Houston Claure",
+      "Malte Jung"
+    ],
+    "venue": "Companion of the ACM/IEEE International Conference on Human-Robot Interaction (HRI), Pioneers Workshop",
+    "url": "https://doi.org/10.1145/3434074.3446366",
+    "type": "Conference companion paper",
+    "researchAreas": [
+      "societal-impact"
+    ]
+  },
+  {
+    "id": "fair-bandits-2020",
+    "year": 2020,
+    "title": "Multi-Armed Bandits with Fairness Constraints for Distributing Resources to Human Teammates",
+    "authors": [
+      "Houston Claure",
+      "Yifang Chen",
+      "Jignesh Modi",
+      "Malte Jung",
+      "Stefanos Nikolaidis"
+    ],
+    "venue": "ACM/IEEE International Conference on Human-Robot Interaction (HRI)",
+    "url": "https://doi.org/10.1145/3319502.3374806",
+    "type": "Conference paper",
+    "researchAreas": [
+      "human-aligned-decisions",
+      "societal-impact"
+    ]
+  },
+  {
+    "id": "tower-construction-2020",
+    "year": 2020,
+    "title": "Robot-Assisted Tower Construction—A Method to Study the Impact of a Robot’s Allocation Behavior on Interpersonal Dynamics and Collaboration in Groups",
+    "authors": [
+      "Malte F. Jung",
+      "Dominic DiFranzo",
+      "Solace Shen",
+      "Brett Stoll",
+      "Houston Claure",
+      "Austin Lawrence"
+    ],
+    "venue": "ACM Transactions on Human-Robot Interaction (THRI)",
+    "url": "https://doi.org/10.1145/3394287",
+    "type": "Journal article",
+    "researchAreas": [
+      "societal-impact"
+    ]
+  }
+]
