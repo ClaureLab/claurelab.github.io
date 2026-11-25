@@ -22,7 +22,7 @@ Open http://localhost:4173/ . No packages or package installation are needed; No
 - `claure-lab/styles.css`: visual design and responsive layouts.
 - `claure-lab/assets/images/`: optimized supplied photos and the research diagram from Houston’s website.
 
-To use the requested group photo, save a web-optimized copy as `claure-lab/assets/images/lab-group.jpg` and rebuild. The homepage automatically uses it instead of the temporary member portrait grid. The original `lab_pic.jpeg` was unavailable when this site was created. Member names that could not be established from filenames are left blank rather than guessed.
+The homepage uses the supplied group photo, with its full composition preserved. People are grouped into master’s, medical, and undergraduate students in `people.json`.
 
 ## GitHub Pages
 

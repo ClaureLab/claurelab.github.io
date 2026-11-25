@@ -1,8 +1,44 @@
 [
-  {"name":"Morgan","role":"","image":"morgan.jpg"},
-  {"name":"Kathryn Choi","role":"","image":"kathryn-choi.jpg"},
-  {"name":"Steven","role":"","image":"steven.jpg"},
-  {"name":"","role":"","image":"member-headshot.jpg"},
-  {"name":"","role":"","image":"member-img0054.jpg"},
-  {"name":"","role":"","image":"member-screenshot.jpg"}
+  {
+    "name": "Steven",
+    "role": "",
+    "image": "steven.jpg",
+    "group": "Master's Students"
+  },
+  {
+    "name": "Anastasia Rao",
+    "role": "",
+    "image": "anastasia-rao.jpg",
+    "group": "Master's Students"
+  },
+  {
+    "name": "Grace Morgan",
+    "role": "",
+    "image": "morgan.jpg",
+    "group": "Medical Students"
+  },
+  {
+    "name": "Kathryn Choi",
+    "role": "",
+    "image": "kathryn-choi.jpg",
+    "group": "Undergraduate Students"
+  },
+  {
+    "name": "Jack Shaifer",
+    "role": "",
+    "image": "member-headshot.jpg",
+    "group": "Undergraduate Students"
+  },
+  {
+    "name": "Will Muck",
+    "role": "",
+    "image": "member-img0054.jpg",
+    "group": "Undergraduate Students"
+  },
+  {
+    "name": "Kashi Kamat",
+    "role": "",
+    "image": "member-screenshot.jpg",
+    "group": "Undergraduate Students"
+  }
 ]
