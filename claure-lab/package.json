@@ -1,0 +1,11 @@
+{
+  "name": "claure-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Claure Lab at the University of Virginia",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "preview": "python3 -m http.server 4173 --directory dist"
+  }
+}
