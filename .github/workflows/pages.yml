@@ -7,18 +7,13 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: github-pages
   cancel-in-progress: false
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Check out the site
@@ -31,6 +26,18 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: claure-lab/dist
+
+  deploy:
+    needs: build
+    permissions:
+      actions: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Publish GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
